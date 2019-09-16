@@ -65,8 +65,6 @@ class PointHandler {
   }
 
   void display() {
-    translate(x, y);
-    rotateIt();
-    //rect(0, 0, 60, 60);
+
   }
 }
